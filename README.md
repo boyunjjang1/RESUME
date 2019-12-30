@@ -1,7 +1,7 @@
 # 이력서
 
 ## 소개
-![selfie](./selfie.jpg){: width="450" height="450"}
+<img src="./selfie.jpg" width="450" height="450">
  - 이름: 강보윤
  - 취미: __함께코딩__, __해커톤__,음악,게임, __공모전__
 
