@@ -4,6 +4,9 @@
 <img src="./selfie.jpg" width="450" height="450">
  - 이름: 강보윤<br>
  - 취미: <b>함께코딩</b>, <b>해커톤</b>,음악,게임, <b>공모전</b>
+ - Email: boyunqueen@gmail.com
+ - GitHub: github.com/boyunjjang1
+ - Blog: https://himelog.tistory.com
 
 ## 학력
  - 한국게임과학고등학교 컴퓨터게임개발과 졸업(2014~2016)
@@ -14,14 +17,14 @@ C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
 
 ## 수상 경력
 - <b>인천광역시 공공데이터 활용 공모전 장려상(제품 및 서비스 개발 분야 3위)</b>
-- 수상 년도 : 2019.7
+- 수상 년도 : 2019.7<br>
 [기사 링크]: http://m.joongdo.co.kr/view.php?key=20190726010011211#_enliple
 
 - <b>인하대학교 인하해커톤 1위</b>
 - 수상년도: 2019.10
 
 - <b>문화체육관광부 주최 문화데이터 활용 공모전 특별상</b>
-- 수상 년도 : 2019.11
+- 수상 년도 : 2019.11<br>
 [참조 링크]: https://www.culture.go.kr/contest/gallery.do?type=A&year=2019
 
 ## 활동
