@@ -1,23 +1,18 @@
 # 이력서
-======
 
 ## 소개
-======
-![selfie](./selfie.jpg)
+![selfie](./selfie.jpg){: width="450" height="450"}
  - 이름: 강보윤
  - 취미: __함께코딩__, __해커톤__,음악,게임, __공모전__
 
 ## 학력
-======
  - 한국게임과학고등학교 컴퓨터게임개발과 졸업(2014~2016)
  - 인하대학교 컴퓨터공학과 재학 중 (2017 입학)
 
 ## 보유 기술
-======
 C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
 
 ## 수상 경력
-======
 - __인천광역시 공공데이터 활용 공모전 장려상(제품 및 서비스 개발 분야 3위)__
 - 수상 년도 : 2019.7
 [기사 링크]: http://m.joongdo.co.kr/view.php?key=20190726010011211#_enliple
@@ -30,7 +25,6 @@ C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
 [참조 링크]: https://www.culture.go.kr/contest/gallery.do?type=A&year=2019
 
 ## 활동
-======
 1. 멋쟁이 사자처럼 6기
  - 기간: 2017.3 ~ 2018.2
  - 활동: Ruby on Rails를 사용한 벡앤드 개발자로 참여
