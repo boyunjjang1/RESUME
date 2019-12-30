@@ -17,10 +17,10 @@ C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
 - 수상 년도 : 2019.7
 [기사 링크]: http://m.joongdo.co.kr/view.php?key=20190726010011211#_enliple
 
-- *인하대학교 인하해커톤 1위*
+- <b>인하대학교 인하해커톤 1위</b>
 - 수상년도: 2019.10
 
-- *문화체육관광부 주최 문화데이터 활용 공모전 특별상*
+- <b>문화체육관광부 주최 문화데이터 활용 공모전 특별상</b>
 - 수상 년도 : 2019.11
 [참조 링크]: https://www.culture.go.kr/contest/gallery.do?type=A&year=2019
 
