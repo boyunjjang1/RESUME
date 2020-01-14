@@ -3,7 +3,7 @@
 ## 소개
 <img src="./selfie.jpg" width="450" height="450">
  - 이름: 강보윤<br>
- - 취미: <b>함께코딩</b>, <b>해커톤</b>,음악,게임, <b>공모전</b>
+ - 취미: <b>함께코딩</b>, <b>해커톤</b>,음악,게임, <b>공모전</b><br>
  - Email: boyunqueen@gmail.com<br>
  - GitHub: github.com/boyunjjang1<br>
  - Blog: https://himelog.tistory.com
