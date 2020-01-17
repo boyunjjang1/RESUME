@@ -31,7 +31,7 @@ C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
 ## 활동
 1. 멋쟁이 사자처럼 6기
  - 기간: 2017.3 ~ 2018.2
- - 활동: Ruby on Rails를 사용한 벡앤드 개발자로 참여
+ - 활동: Ruby on Rails, NodeJS를 사용한 벡앤드 개발자로 참여
 
 2. 행복한 다람쥐단 근무
  - 기간: 2019.7 ~
