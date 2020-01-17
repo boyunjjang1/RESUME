@@ -6,7 +6,8 @@
  - 취미: <b>함께코딩</b>, <b>해커톤</b>,음악,게임, <b>공모전</b><br>
  - Email: boyunqueen@gmail.com<br>
  - GitHub: github.com/boyunjjang1<br>
- - Blog: https://himelog.tistory.com
+ - Blog: https://himelog.tistory.com<br>
+ - facebook: https://www.facebook.com/profile.php?id=100004937532760<br>
 
 ## 학력
  - 한국게임과학고등학교 컴퓨터게임개발과 졸업(2014~2016)
