@@ -18,18 +18,19 @@ C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
 
 ## 수상 경력
 - <b>인천광역시 공공데이터 활용 공모전 장려상(제품 및 서비스 개발 분야 3위)</b>
-- 수상 년도 : 2019.7<br>
+수상 년도 : 2019.7<br>
 [기사 링크]: http://m.joongdo.co.kr/view.php?key=20190726010011211#_enliple
 
 - <b>인하대학교 인하해커톤 1위</b>
 - 수상년도: 2019.10
 
 - <b>문화체육관광부 주최 문화데이터 활용 공모전 특별상</b>
-- 수상 년도 : 2019.11<br>
+수상 년도 : 2019.11<br>
 [참조 링크]: https://www.culture.go.kr/contest/gallery.do?type=A&year=2019
 
 - <b> 인하 스타트업 경진대회 최우수상 </b>
-- 수상 년도 : 2020.01
+수상 년도 : 2020.01
+[참조링크]: https://www.inha.ac.kr/kr/1541/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa3IlMkY1OCUyRjIxODc4JTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDIlMjZzcmNoQ29sdW1uJTNEJTI2c3JjaFdyZCUzRCUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg%3D%3D
 
 ## 활동
 1. 멋쟁이 사자처럼 6기
