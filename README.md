@@ -28,6 +28,9 @@ C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
 - 수상 년도 : 2019.11<br>
 [참조 링크]: https://www.culture.go.kr/contest/gallery.do?type=A&year=2019
 
+- <b> 인하 스타트업 경진대회 최우수상 </b>
+- 수상 년도 : 2020.01
+
 ## 활동
 1. 멋쟁이 사자처럼 6기
  - 기간: 2017.3 ~ 2018.2
