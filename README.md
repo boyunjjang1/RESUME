@@ -37,6 +37,10 @@ C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
  - 기간: 2017.3 ~ 2018.2
  - 활동: Ruby on Rails, NodeJS를 사용한 벡앤드 개발자로 참여
 
-2. 행복한 다람쥐단 근무
- - 기간: 2019.7 ~
+2. 행복한 다람쥐단 
+ - 기간: 2019.7 ~ 2020.02
  - Unity를 사용한 Online 서비스 구축, NodeJS, AWS, Mysql을 사용한 API 개발
+ 
+3. SoftSquared 6th Server Developer, Maek Us
+ - 기간: 2019.09 ~
+ - Node Js, Aws, Mysql 를 사용한 App 개발, ReactJs를 사용한 외주 
