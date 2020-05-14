@@ -44,3 +44,10 @@ C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
 3. SoftSquared 6th Server Developer, Maek Us
  - 기간: 2019.09 ~
  - Node Js, Aws, Mysql 를 사용한 App 개발, ReactJs를 사용한 외주 
+ 
+4. Moari 모아리:모아보는 리뷰 앱 출시
+ - IOS, ANDROID 동시 출시
+ - Node Js, AWS, Mysql 사용
+ 
+5. SoftWareMaestro 11th
+ - 기간: 2020.05 ~
