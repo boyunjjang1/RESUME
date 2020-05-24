@@ -46,8 +46,15 @@ C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
  - Node Js, Aws, Mysql 를 사용한 App 개발, ReactJs를 사용한 외주 
  
 4. Moari 모아리:모아보는 리뷰 앱 출시
+ - 기간: 2020.12 ~ 02
  - IOS, ANDROID 동시 출시
  - Node Js, AWS, Mysql 사용
  
 5. SoftWareMaestro 11th
  - 기간: 2020.05 ~
+ 
+
+6. 2020 MakeUs Challenge Spring 우수상
+ - SoftSquared X Naver Cloud Platform 후원
+ - 기간 : 2020.05.23
+ - Node Js, Aws, Mysql, Socketio 를 사용한 청소년 대상 원격 과외 서비스 제작 
