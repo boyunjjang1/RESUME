@@ -52,7 +52,7 @@ Node Js, Aws, Mysql, SocketIO 를 사용한 청소년 대상 원격 과외 서�
  - Node Js, Aws, Mysql 를 사용한 App 개발, ReactJs를 사용한 외주 
  
 4. Moari 모아리:모아보는 리뷰 앱 출시
- - <img src="./moari.PNG" width="300px" height="300px">
+ - <img src="./moari.PNG" width="200px" height="200px">
  - https://apps.apple.com/us/app/%EB%AA%A8%EC%95%84%EB%A6%AC-%EB%AA%A8%EC%95%84%EB%B3%B4%EB%8A%94-%EB%A6%AC%EB%B7%B0/id1503022092
  - 기간: 2020.12 ~ 02
  - IOS, ANDROID 동시 출시
@@ -62,7 +62,7 @@ Node Js, Aws, Mysql, SocketIO 를 사용한 청소년 대상 원격 과외 서�
  - 기간: 2020.05 ~
  
 6. Apen I pad App 출시
- - <img src="./apen.jpg" width="300px" height="300px">
+ - <img src="./apen.jpg" width="200px" height="200px">
  - 기간: 2020.06
  - Node Js, AWS, Mysql, nginx, socketIO
  
