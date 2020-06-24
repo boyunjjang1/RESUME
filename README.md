@@ -33,9 +33,9 @@ C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
 [참조링크]: https://www.inha.ac.kr/kr/1541/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa3IlMkY1OCUyRjIxODc4JTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDIlMjZzcmNoQ29sdW1uJTNEJTI2c3JjaFdyZCUzRCUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg%3D%3D
 
 - <b>6. 2020 MakeUs Challenge Spring 우수상</b>
-- SoftSquared X Naver Cloud Platform 후원<br>
-- 수상년도 : 2020.05.23<br>
-- Node Js, Aws, Mysql, Socketio 를 사용한 청소년 대상 원격 과외 서비스 제작 
+SoftSquared X Naver Cloud Platform 후원<br>
+수상년도 : 2020.05.23<br>
+Node Js, Aws, Mysql, SocketIO 를 사용한 청소년 대상 원격 과외 서비스 제작 
 
 
 ## 활동
@@ -47,7 +47,7 @@ C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
  - 기간: 2019.7 ~ 2020.02
  - Unity를 사용한 Online 서비스 구축, NodeJS, AWS, Mysql을 사용한 API 개발
  
-3. SoftSquared 6th Server Developer, Maek Us
+3. SoftSquared 6th Server Developer, Make Us
  - 기간: 2019.09 ~
  - Node Js, Aws, Mysql 를 사용한 App 개발, ReactJs를 사용한 외주 
  
@@ -58,4 +58,8 @@ C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
  
 5. SoftWareMaestro 11th
  - 기간: 2020.05 ~
+ 
+6. Apen I pad App 출시
+ - 기간: 2020.06
+ - Node Js, AWS, Mysql, nginx, socketIO
  
