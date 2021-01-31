@@ -59,7 +59,7 @@ Node Js, Aws, Mysql, SocketIO 를 사용한 청소년 대상 원격 과외 서�
  - Node Js, AWS, Mysql 사용
  
 5. SoftWareMaestro 11th
- - 기간: 2020.05 ~
+ - 기간: 2020.05 ~ 2020.12
  
 6. Apen I pad App 출시
  - <img src="./apen.jpg" width="200px" height="200px">
