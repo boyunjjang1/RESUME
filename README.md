@@ -35,17 +35,17 @@ C++, C#, Unity, Python flask, Javascript, NodeJs, Github, Slack, MySql
 - <b>6. 2020 MakeUs Challenge Spring 우수상</b>
 SoftSquared X Naver Cloud Platform 후원<br>
 수상년도 : 2020.05.23<br>
-Node Js, Aws, Mysql, SocketIO 를 사용한 청소년 대상 원격 과외 서비스 제작 
+Node Js, Aws, Mysql 사용한 청소년 대상 원격 과외 서비스 제작 
 
 
 ## 활동
 1. 멋쟁이 사자처럼 6기
  - 기간: 2017.3 ~ 2018.2
- - 활동: Ruby on Rails, NodeJS를 사용한 벡앤드 개발자로 참여
+ - 활동:  NodeJS를 사용한 벡앤드 개발자로 참여
 
 2. 행복한 다람쥐단 
  - 기간: 2019.7 ~ 2020.02
- - Unity를 사용한 Online 서비스 구축, NodeJS, AWS, Mysql을 사용한 API 개발
+ - NodeJS, AWS, Mysql을 사용한 API 개발
  
 3. SoftSquared 6th Server Developer, Make Us
  - 기간: 2019.09 ~
@@ -64,5 +64,5 @@ Node Js, Aws, Mysql, SocketIO 를 사용한 청소년 대상 원격 과외 서�
 6. Apen I pad App 출시
  - <img src="./apen.jpg" width="200px" height="200px">
  - 기간: 2020.06
- - Node Js, AWS, Mysql, nginx, socketIO
+ - Node Js, AWS, Mysql, nginx
  
