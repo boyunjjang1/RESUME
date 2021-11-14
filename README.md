@@ -65,4 +65,8 @@ Node Js, Aws, Mysql 사용한 청소년 대상 원격 과외 서비스 제작
  - <img src="./apen.jpg" width="200px" height="200px">
  - 기간: 2020.06
  - Node Js, AWS, Mysql, nginx
+
+7. 삼성디스플레이 인턴쉽
+ - 기간: 2021.07~
+
  
